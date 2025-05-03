@@ -1,0 +1,17 @@
+# Phase 1 – Setup and Compromise the Service
+
+## Overview
+
+In Phase 1, we configured the victim and attacker environments.  
+The victim machine (Metasploitable3) was scanned for vulnerabilities, and we successfully exploited an insecure SSH service.
+
+## Steps
+
+- Set up Metasploitable3 as the victim machine.
+- Used Kali Linux as the attacker machine.
+- Performed a vulnerability scan using Nmap.
+- Exploited SSH service using Hydra and Metasploit Framework.
+
+## Evidence
+
+Screenshots included in the `screenshots` folder demonstrate the scanning and exploitation process.
