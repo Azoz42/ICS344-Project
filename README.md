@@ -12,4 +12,9 @@ The project is divided into three phases:
 
 ---
 
-## Project Structure
+- Group Number: #3
+
+-ABDULAZIZ ALTAMIMI 201962250
+-ABDULMAJEED ALGHAMDI 202032860
+
+
